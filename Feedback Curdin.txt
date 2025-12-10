@@ -1,0 +1,8 @@
+Bei Modell out of the box ist Validierung wichtig.
+
+Entweder mehr in Validierung (Körbe, Kindersitze, Winkel etc.) ==> In welchem Setting funktioniert es gut? In welchem ist es schwieriger?
+Empfehlungen formulieren (Lastenbikes, E-Scooter etc.) ==> Finetuning
+
+-------------
+
+Nummernschilder
